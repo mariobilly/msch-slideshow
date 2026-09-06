@@ -1,0 +1,19 @@
+[project]
+name = "msch-slideshow"
+version = "0.1.0"
+description = "Photo slideshow studio with animated layouts, beat analysis, subject framing, editable shot plans and streamed video export."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+dependencies = ["numpy>=1.24", "Pillow>=10.1", "imageio-ffmpeg>=0.5.1", "torch", "av"]
+
+[project.urls]
+Repository = "https://github.com/mariobilly/msch-slideshow"
+Documentation = "https://github.com/mariobilly/msch-slideshow/blob/main/docs/NODES.md"
+"Bug Tracker" = "https://github.com/mariobilly/msch-slideshow/issues"
+
+[tool.comfy]
+# Set to the publisher ID you own at registry.comfy.org before publishing.
+PublisherId = ""
+DisplayName = "MSCH Slideshow"
+
