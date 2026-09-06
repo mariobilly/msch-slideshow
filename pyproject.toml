@@ -13,7 +13,6 @@ Documentation = "https://github.com/mariobilly/msch-slideshow/blob/main/docs/NOD
 "Bug Tracker" = "https://github.com/mariobilly/msch-slideshow/issues"
 
 [tool.comfy]
-# Set to the publisher ID you own at registry.comfy.org before publishing.
-PublisherId = ""
+PublisherId = "mariobilly"
 DisplayName = "MSCH Slideshow"
 
