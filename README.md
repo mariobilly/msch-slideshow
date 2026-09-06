@@ -1,3 +1,7 @@
+> **Superseded by [MSCH Nodes](https://github.com/mariobilly/msch-comfyui-nodes): one install for the complete collection.**
+>
+> This standalone repository is retained for historical links and existing installations. New nodes and updates belong to the unified pack. Follow the [migration guide](https://github.com/mariobilly/msch-comfyui-nodes/blob/main/MIGRATION.md) before switching to avoid duplicate nodes.
+
 # MSCH Slideshow
 
 Photo slideshow studio with animated layouts, beat analysis, subject framing, editable shot plans and streamed video export.
