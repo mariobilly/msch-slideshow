@@ -4,9 +4,11 @@ Photo slideshow studio with animated layouts, beat analysis, subject framing, ed
 
 [Node reference](docs/NODES.md) · [Example workflows and results](examples/README.md) · [Publishing guide](PUBLISHING.md)
 
-![Actual demo output](examples/results/demo.png)
+<!-- MSCH SHOWCASE -->
+[![MSCH Slideshow showcase](examples/showcase/outputs/showcase_vertical_high_energy_6287256e0eb8_preview.jpg)](examples/showcase/README.md)
 
-[Play / download the rendered demo](examples/results/demo.mp4)
+**[View the showcase: videos, images and workflows](examples/showcase/README.md)**
+<!-- /MSCH SHOWCASE -->
 
 ## Included nodes
 
